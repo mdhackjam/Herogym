@@ -14,3 +14,8 @@ body
 	font-weight: 600;
 	background-color: #DBECC7;
 }
+
+.empty
+{
+	height: 70px;
+}
