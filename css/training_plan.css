@@ -1,0 +1,25 @@
+.training-bar {
+    border-radius: 5px;
+    overflow: overlay;
+    color: black;
+    background: white;
+}
+.done {
+    background: #B6B6B6;
+}
+.minus-tag {
+    position:relative;
+    margin-left: 25px;
+}
+.today {
+    background: #03a9f4;
+}
+.faraway {
+    background: #dcedc8;
+}
+.no-bar {
+    border-width: 0px;
+}
+.alert {
+    cursor: pointer;
+}
