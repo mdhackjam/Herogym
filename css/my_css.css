@@ -17,5 +17,17 @@ body
 
 .empty
 {
-	height: 70px;
+	height: 90px;
 }
+.photo
+{
+	border-radius: 300px;
+	width: 100px;
+	height: 100px;
+}
+.join
+{
+	margin-top: 10px;
+	margin-bottom: 40px;
+}
+
